@@ -1,2 +1,1 @@
 git_publish
-git_publish
